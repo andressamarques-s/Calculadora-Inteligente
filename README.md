@@ -10,17 +10,10 @@ Projeto simples desenvolvido em Python para praticar:
 
 ## Funcionalidades
 
-✅ Soma  
-✅ Subtração  
-✅ Multiplicação  
-✅ Divisão  
-✅ Histórico  
-✅ Encerrar programa digitando "sair"
+Soma  
+Subtração  
+Multiplicação  
+Divisão  
+Histórico  
+Encerrar programa digitando "sair"
 
-## Tecnologias
-
-- Python 3
-
-## Como executar
-
-```bash
